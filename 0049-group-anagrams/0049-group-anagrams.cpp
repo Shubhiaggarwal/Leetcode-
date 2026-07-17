@@ -9,14 +9,13 @@ public:
             
 
             sort(s.begin(),s.end());
-            if(mp.contains(s)){
+           
                 mp[s].push_back(strs[i]);
-            }
-            else{
-                mp[s] = {strs[i]};
-            }
- 
+            
+          
         }
+ 
+        
         for(auto it: mp){
             res.push_back(it.second);
         }
