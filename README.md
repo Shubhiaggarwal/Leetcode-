@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
