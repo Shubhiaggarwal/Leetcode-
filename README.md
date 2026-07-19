@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0242-valid-anagram) |
+| [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0125-valid-palindrome) |
+| [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+## Math
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
