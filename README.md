@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -78,5 +79,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0093-restore-ip-addresses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
