@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0172-factorial-trailing-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
 | ------- |
