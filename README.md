@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
