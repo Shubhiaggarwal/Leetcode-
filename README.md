@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
