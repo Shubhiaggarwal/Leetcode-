@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0172-factorial-trailing-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0141-linked-list-cycle) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
