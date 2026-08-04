@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
+| [3731-find-missing-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
