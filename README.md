@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
