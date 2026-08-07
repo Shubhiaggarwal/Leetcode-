@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0172-factorial-trailing-zeroes) |
+| [0342-power-of-four](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0342-power-of-four) |
 | [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0877-stone-game) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0078-subsets) |
+| [0342-power-of-four](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0342-power-of-four) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -216,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
