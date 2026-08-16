@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
+| [0929-unique-email-addresses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0929-unique-email-addresses) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2549-count-distinct-numbers-on-board) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3731-find-missing-elements) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
+| [0929-unique-email-addresses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0929-unique-email-addresses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
+| [0929-unique-email-addresses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0929-unique-email-addresses) |
 | [1200-minimum-absolute-difference](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
