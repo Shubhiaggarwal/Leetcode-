@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2549-count-distinct-numbers-on-board) |
 | [3731-find-missing-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3731-find-missing-elements) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
