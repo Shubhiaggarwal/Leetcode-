@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0806-number-of-lines-to-write-string) |
 | [0929-unique-email-addresses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0929-unique-email-addresses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0739-daily-temperatures) |
+| [0806-number-of-lines-to-write-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0806-number-of-lines-to-write-string) |
 | [0877-stone-game](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0929-unique-email-addresses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0929-unique-email-addresses) |
