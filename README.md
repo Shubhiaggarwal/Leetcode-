@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0806-number-of-lines-to-write-string) |
 | [0929-unique-email-addresses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0942-di-string-match) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1859-sorting-the-sentence](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1859-sorting-the-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0929-unique-email-addresses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1200-minimum-absolute-difference) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
+| [0942-di-string-match](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0942-di-string-match) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0011-container-with-most-water) |
+| [0942-di-string-match](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0942-di-string-match) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
 |  |
