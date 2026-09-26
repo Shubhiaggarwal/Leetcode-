@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0806-number-of-lines-to-write-string) |
 | [0929-unique-email-addresses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0942-di-string-match) |
+| [0984-string-without-aaa-or-bbb](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0984-string-without-aaa-or-bbb) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1859-sorting-the-sentence](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1859-sorting-the-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0942-di-string-match](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0942-di-string-match) |
+| [0984-string-without-aaa-or-bbb](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0984-string-without-aaa-or-bbb) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
 |  |
