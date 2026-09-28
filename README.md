@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0942-di-string-match) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0984-string-without-aaa-or-bbb) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1859-sorting-the-sentence](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1859-sorting-the-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0739-daily-temperatures) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1859-sorting-the-sentence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
