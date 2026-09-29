@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2549-count-distinct-numbers-on-board) |
 | [3731-find-missing-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Queue
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Linked List
 |  |
 | ------- |
@@ -276,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
