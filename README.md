@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0806-number-of-lines-to-write-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0942-di-string-match) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0984-string-without-aaa-or-bbb) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0942-di-string-match) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0984-string-without-aaa-or-bbb) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
