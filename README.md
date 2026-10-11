@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2549-count-distinct-numbers-on-board) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2549-count-distinct-numbers-on-board) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -291,4 +294,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
