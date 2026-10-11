@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2549-count-distinct-numbers-on-board) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0877-stone-game) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2549-count-distinct-numbers-on-board) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
 |  |
