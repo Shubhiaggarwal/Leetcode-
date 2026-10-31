@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
