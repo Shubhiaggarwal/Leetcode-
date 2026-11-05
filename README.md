@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1859-sorting-the-sentence](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1859-sorting-the-sentence) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0942-di-string-match](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0942-di-string-match) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
