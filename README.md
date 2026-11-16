@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1859-sorting-the-sentence](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/1859-sorting-the-sentence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Shubhiaggarwal/Leetcode-/tree/master/2549-count-distinct-numbers-on-board) |
 ## Interactive
 |  |
